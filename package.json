@@ -1,0 +1,25 @@
+{
+  "name": "greenpapayasolid",
+  "version": "1.0.0",
+  "description": "Tying access to nfts",
+  "main": "accesscontrolscript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papayaverse/greenpapayasolid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papayaverse/greenpapayasolid/issues"
+  },
+  "homepage": "https://github.com/papayaverse/greenpapayasolid#readme",
+  "dependencies": {
+    "@inrupt/solid-client": "^1.25.2",
+    "@inrupt/solid-client-authn-browser": "^1.13.2",
+    "@inrupt/solid-client-authn-node": "^1.13.2"
+  }
+}
